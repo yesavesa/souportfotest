@@ -8,7 +8,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-	title: "Project | Afrizal Yogi Pratama",
+	title: "Project | Sourav Budke",
 	description: "I Design, Develop, and always Learn",
 }
 

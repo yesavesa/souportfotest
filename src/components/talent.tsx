@@ -26,57 +26,69 @@ export default function Talent() {
 			<div className="section-content">
 				<div className="grid xl:grid-cols-3 gap-6">
 					<div className="rounded-xl border-2 p-12">
-						<h2 className="font-bold mb-4 text-2xl sm:text-4xl">Design</h2>
+						<h2 className="font-bold mb-4 text-2xl sm:text-4xl">Skills</h2>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Responsive Web Design
+						    Python						
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Mobile App Design
+							Mysql
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Usability Testing
+						   JavaScript
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Design Systems
+						   C language
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Design Thinking
+						   C++ language
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Prototyping
+						   Google Cloud Computing 
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
 							Figma
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Maze
+						   Prototyping
+						</p>
+						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
+						   linux
+						</p>
+						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
+						   MacOs						
 						</p>
 					</div>
 					<div className="rounded-xl border-2 p-12">
 						<h2 className="font-bold mb-4 text-2xl sm:text-4xl">Development</h2>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Tailwind CSS
+							Django
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Typescript
+							Github
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
 							Bootstrap
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Next.js
+						   Tailwind CSS
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
 							HTML
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
-							Sass
+							PHP
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
 							CSS
 						</p>
 						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
 							Git
+						</p>
+						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
+							OpenGL
+						</p>
+						<p className="my-1 text-black-secondary dark:text-white-secondary text-sm lg:text-lg">
+							OpenCV
 						</p>
 					</div>
 					<div className="rounded-xl border-2 p-12">

@@ -13,23 +13,21 @@ export default function AboutMe() {
 			<div className="section-content">
 				<div className="mb-12">
 					<h2 className="flex flex-wrap font-bold mb-6 text-3xl sm:text-5xl">
-						Hello! I'm Yogi,&nbsp;
+						Hello! I'm Sourav,&nbsp;
 						<Typewriter
 							options={{
-								strings: ["a Front-end Website Developer", "an UI/UX Designer"],
+								strings: ["a Software Engineer ", "an FullStack developer",],
 								autoStart: true,
 								loop: true,
 							}}
 						/>
 					</h2>
 					<p className="text-sm lg:text-lg text-black-secondary dark:text-white-secondary">
-						An Informatics student with a fervent passion for technology and a
-						certified Junior Web Developer. Proficient in HTML, CSS, SASS,
-						JavaScript, Bootstrap, and TailwindCSS. I have honed my skills
-						through practical experience as a Computer Technician and Website
-						Developer. With a strong curiosity and the ability to quickly pick
-						up new skills, I am a fast learner who can seamlessly adapt to new
-						environments.
+					An enthusiastic web developer with a passion for technology and a growing expertise 
+					in backend and frontend development. Proficient in Python, HTML, CSS, JavaScript, and 
+					Django, I’ve sharpened my skills through practical projects, creating seamless and 
+					efficient solutions. With a strong curiosity and the ability to quickly adapt to new
+					technologies, I am always eager to take on new challenges and deliver impactful results.
 					</p>
 				</div>
 				{/* </div> */}

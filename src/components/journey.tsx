@@ -5,6 +5,7 @@ import journey from "@/data/journey.json"
 import "swiper/css"
 import "swiper/css/pagination"
 
+
 interface Journey {
 	title: string
 	description: string[]
@@ -13,6 +14,7 @@ interface Journey {
 }
 
 export default function Journey() {
+	
 	const journeyData: Journey[] = journey
 	return (
 		<section id="journey" className="py-20">

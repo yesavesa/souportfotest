@@ -35,7 +35,7 @@ export default function Navbar() {
 				<Link
 					href="/"
 					className="text-xl sm:text-2xl font-bold text-black-secondary hover:text-black-primary dark:text-white-secondary dark:hover:text-white-primary">
-					Afrizal Yogi Pratama.
+					SOURAV BUDKE.
 				</Link>
 				{!isShow ? (
 					<div
@@ -147,18 +147,7 @@ export default function Navbar() {
 													About me
 												</Link>
 											</li>
-											<li className="py-4 lg:py-8">
-												<Link
-													href="/blog"
-													className={
-														route == "/blog"
-															? "font-bold  text-black-primary dark:text-white-primary"
-															: ""
-													}
-													onClick={() => setIsShow(false)}>
-													Blog
-												</Link>
-											</li>
+										
 										</ul>
 									</div>
 								</div>
@@ -178,44 +167,7 @@ export default function Navbar() {
 										I aspire to consistently enhance my knowledge <br />
 										and advance my career. I'm open to collaboration.
 									</p>
-									<div className="flex">
-										<div className="flex text-black-secondary dark:text-white-secondary">
-											<Link
-												href="mailto:afrizalyogi.id@gmail.com"
-												className="flex items-center mr-4
-                      text-md
-                      xl:text-xl">
-												<FontAwesomeIcon
-													icon={faEnvelope}
-													className="mr-2
-                        text-2xl
-                        xl:text-3xl"
-												/>
-												afrizalyogi.id@gmail.com
-											</Link>
-											<Link
-												href="#"
-												className="hover:text-blue-primary mx-4
-                      text-2xl
-                      xl:text-4xl">
-												<FontAwesomeIcon icon={faLinkedin} />
-											</Link>
-											<Link
-												href="#"
-												className="hover:text-blue-primary mx-4
-                      text-2xl
-                      xl:text-4xl">
-												<FontAwesomeIcon icon={faGithub} />
-											</Link>
-											<Link
-												href="#"
-												className="hover:text-blue-primary mx-4
-                      text-2xl
-                      xl:text-4xl">
-												<FontAwesomeIcon icon={faTelegram} />
-											</Link>
-										</div>
-									</div>
+									
 								</div>
 							</div>
 						</div>

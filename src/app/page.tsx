@@ -38,27 +38,13 @@ export default function Home() {
 						<b className="hover:bg-blue-primary duration-300">Develop</b>, and
 						always <b className="hover:bg-blue-primary duration-300">Learn</b>.
 					</h1>
-					<div
-						id="hero-cta"
-						className="flex flex-wrap gap-6 items-center justify-center text-black-secondary dark:text-white-secondary
-						lg:gap-12 lg:flex-nowrap
-						xl:justify-start">
-						<Link
-							href={"mailto:afrizalyogi.id@gmail.com"}
-							className="
-                text-xs px-12 py-3 border-2 rounded-2xl text-blue-primary items-center flex hover:bg-blue-primary hover:text-white-primary hover:border-blue-primary
-                sm:text-sm
-								lg:px-6
-								2xl:text-lg
-                ">
-							<FontAwesomeIcon icon={faEnvelope} className="mr-2" />
-							Contact Me
-						</Link>
+					
+						
 						<div
 							className="flex w-full justify-center
 							lg:w-auto">
 							<div className="mr-12">
-								<Link href={"https://www.linkedin.com/in/afrizalyogi/"}>
+								<Link href={"https://www.linkedin.com/in/souravbudke/"}>
 									<FontAwesomeIcon
 										icon={faLinkedin}
 										className="text-3xl 2xl:text-4xl"
@@ -66,33 +52,26 @@ export default function Home() {
 								</Link>
 							</div>
 							<div className="mr-12">
-								<Link href={"https://github.com/afrizalyogi"}>
+								<Link href={"https://github.com/souravbudke"}>
 									<FontAwesomeIcon
 										icon={faGithub}
 										className="text-3xl 2xl:text-4xl"
 									/>
 								</Link>
 							</div>
-							<div>
-								<Link href={"https://t.me/afrizalyogi"}>
-									<FontAwesomeIcon
-										icon={faTelegram}
-										className="text-3xl 2xl:text-4xl"
-									/>
-								</Link>
-							</div>
+							
 						</div>
 					</div>
-				</div>
-				<div id="hero-img">
+				
+				{/*<div id="hero-img">
 					<ProfileCircle></ProfileCircle>
 					<ProfileBase></ProfileBase>
 					<ProfileTriangle></ProfileTriangle>
-				</div>
+				</div>*/}
 			</section>
 			<Services></Services>
 			<Showcase></Showcase>
-			<Testimonial></Testimonial>
+			{/* <Testimonial></Testimonial> */}
 			<Talent></Talent>
 		</MainWrapper>
 	)

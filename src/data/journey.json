@@ -1,33 +1,35 @@
 [
 	{
-		"title": "Digital Engineering Laboratory Assistant",
+		"title": "Finalist, Smart India Hackathon",
 		"description": [
-			"Developed comprehensive modules, assignments, and tools that effectively engaged students in learning about Digital Engineering concepts and techniques, resulting in outstanding performance in their final projects.",
-			"Collaborated with the lecturer, lab technician, and other lab assistants to make necessary changes to the curriculum and ensure that students had a clear understanding of the materials.",
-			"Guided and mentored practitioners in digital engineering to ensure that they understand the subject matter and can apply it effectively in their work, resulting in successful implementation in their final projects."
+			"Collaborated with a multidisciplinary team to develop a solution for analyzing and identifying malicious mobile applications.",
+            "Implemented key security features, including SSL certificate validation, HTTP request analysis, and IP location tracking, to enhance detection accuracy.",
+            "Worked closely with mentors and team members, making necessary improvements to ensure a robust and scalable solution.",
+            "Strengthened skills in cybersecurity, problem-solving, and teamwork, contributing to a successful outcome in the hackathon."
 		],
-		"date": "Oct 2022 – Now",
-		"company": "University of Lampung"
+		"date": "Dec 2023",
+		"company": "GIET University Gunupur, Odisha, India"
 	},
 	{
-		"title": "Website Developer Intern",
+		"title": "HTML AND WEB DEVELOPMENT",
 		"description": [
-			"Developed websites using relevant themes and plugins in WordPress or other content management systems (CMS) to enhance clients' online visibility and presence.",
-			"Provided effective troubleshooting for enhance user experience with attractive and responsive designs to enhanced clients' brand image.",
-			"Integrated third-party platforms, including Google Analytics, to increase clients' business reach, improve operational efficiency, and unleash business growth potential.",
-			"Configuring website servers, integrated DNS settings, and seamlessly migrating servers to new servers leads to a strong online presence, increased website speed, and increased website security."
-		],
-		"date": "Mar 2023 – Jun 2023",
-		"company": "PT. Dibimbing Digital Indonesia (Dibimbing.id)"
+			"Developed responsive and visually appealing websites using HTML, CSS, and JavaScript, ensuring an enhanced online presence for clients.",
+			"Troubleshooted and optimized user interfaces to improve user experience, leading to increased client satisfaction and brand visibility.",
+			"Integrated third-party tools such as Google Analytics to track website performance and enhance clients’ business reach.",
+			"Configured hosting environments and managed DNS settings, improving website load times and security."	
+			],
+		"date": "Sept 2022 - Dec 2022",
+		"company": "Jain college of engineering and technology Hubballi"
 	},
 	{
-		"title": "Computer Technician Intern",
+		"title": "Bachelors in Computer science and Engineering",
 		"description": [
-			"I build, install, and troubleshoot computer devices more than 18 devices every days by collaboration with the team.",
-			"Performed daily quality checks for more than 20 components and devices every days, to get customer satisfaction.",
-			"Organized more than 25 incoming items almost every day, and arrange them neatly in the warehouse."
+			"Gained a strong foundation in programming languages such as Python, C++, and Java, and applied them to develop software solutions and web applications.",
+			"Collaborated with peers on various projects, enhancing my ability to work in a team environment and develop practical solutions for real-world challenges.",
+			"Completed hands-on projects in web development, cloud computing, and cybersecurity, which strengthened my technical expertise and prepared me for industry-related tasks."
 		],
-		"date": "Aug 2019 – Feb 2020",
-		"company": "Sentra Computer"
+		"date": "Aug 2021 – Apr 2025(expected)",
+		"company": "Jain college of engineering and technology Hubballi"
 	}
+	
 ]

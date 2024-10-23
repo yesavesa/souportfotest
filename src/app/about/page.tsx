@@ -8,7 +8,6 @@ export default function About() {
 	return (
 		<MainWrapper>
 			<AboutMe></AboutMe>
-			<Services></Services>
 			<Journey></Journey>
 			<Talent></Talent>
 		</MainWrapper>
